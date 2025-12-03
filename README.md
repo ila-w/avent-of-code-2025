@@ -2,7 +2,7 @@
 
 ## Day 1
 
-Implemented using a circular linked list to simulate the dial.
+Implemented using a doubly circular linked list to simulate the dial.
 
 
 ## Day 2
