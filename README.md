@@ -1,6 +1,6 @@
 # Advent of Code 2025
 
-## Day 1 - Completed 12/01/2025
+## Day 1
 
 Implemented using a circular linked list to simulate the dial.
 
